@@ -1,0 +1,52 @@
+html {
+    padding: 0%;
+    margin: 0%;
+    background: rgb(0,156,210);
+    background: linear-gradient(0deg, rgba(0,156,210,1) 0%, rgba(0,133,131,1) 40%, rgba(0,133,131,1) 60%, rgba(0,156,210,1) 100%);
+}
+ 
+h1 {
+    text-decoration-line: underline;
+    margin-bottom: 2%;
+}
+
+.CV {
+    background-color: white;
+    height: 100%;
+    border: solid black 1px;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    margin-right: 8%;
+    margin-left: 8%;
+    
+}
+
+.PersonalDetails {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.PersonalProfile {
+    margin: 5%;
+}
+
+p {
+    font-size: 18px;
+}
+
+.EducationAndTraining, .WorkExperience, .InterestsAndHobbies, .Skills {
+    margin: 5%;
+}
+
+table,
+td { 
+    font-size: 18px;
+}
+
+.ET_Date, .WE_Date {
+    width: 500px;
+}
+
+.ET_School, .WE_Work {
+    width: 400px;
+}
